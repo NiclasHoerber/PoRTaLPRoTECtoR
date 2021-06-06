@@ -1,0 +1,11 @@
+Docstring Guide:
+  https://sphinxcontrib-napoleon.readthedocs.io/en/latest/example_google.html
+
+
+----
+Review:
+  TODO - for productive:
+    - refactor complex main.py (lot code stuff
+    - create configuration file for setup (better handle changes)
+    - graphics generator (usage of graphic, changes, handling)
+    - license agreement in each file
